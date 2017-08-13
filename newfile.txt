@@ -1,1 +1,3 @@
-This is a simulated file of some very complex code that only I can write. err, ok, it's just text.
+This is a simulated text file of some very complex code that only I can write. Err, ok, it's just text.
+
+This is some additional text added by co-workers.
